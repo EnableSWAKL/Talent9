@@ -76,7 +76,7 @@
             <div class="subscribe">
                 <div class="row">
                     <div class="col-md-6 text-center">
-                        <form action="//talent9.us14.list-manage.com/subscribe/post?u=18343133abc1c05f8cca8af9d&amp;id=b70e9e8e8b" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <form action="//talent9.us14.list-manage.com/subscribe/post?u=18343133abc1c05f8cca8af9d&amp;id=b70e9e8e8b" method="post" name="mc-embedded-subscribe-form" class="form-inline" target="_blank" novalidate>
                         <h5 class="info-text">
                         I'm a Job Seeker. 
                         </h5>
