@@ -5,7 +5,7 @@ Made with love by Creative Tim (http://www.creative-tim.com)
 */
 
 body{
-    
+    font-size: 17px;
 }
 .form-control::-moz-placeholder{
    color: #DDDDDD;
