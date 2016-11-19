@@ -675,7 +675,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     z-index: 1;
 }
 .cover.black{
-    background-color: rgba(197, 175, 148, 0.64);
+    background-color: rgba(199, 185, 167, 0.64);
 }
 .cover.blue{
     background-color: rgba(5, 31, 60, 0.6);
