@@ -84,16 +84,9 @@
                             <label class="sr-only" for="exampleInputEmail2">Email address</label>
                             <input type="email" value="" id="mce-EMAIL" name="EMAIL" class="form-control transparent" placeholder="Your email here...">
                           </div>
-                            <div  class="clear">
-                                <div class="response"  style="display:none"></div>
-                                <div class="response"  style="display:none"></div>
-                            </div>
-                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_18343133abc1c05f8cca8af9d_b70e9e8e8b" tabindex="-1" value=""></div>
-                          <button type="submit" value="Subscribe" name="subscribe"  class="btn btn-danger btn-fill">Notify Me</button>
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_18343133abc1c05f8cca8af9d_b70e9e8e8b" tabindex="-1" value="" /></div>
+                          <button type="submit" name="subscribe"  class="btn btn-danger btn-fill">Notify Me</button>
                         </form>
-
-
-
                     </div>
 
                     <div class="col-md-6 text-center">
