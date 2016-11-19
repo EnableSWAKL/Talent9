@@ -7,7 +7,7 @@
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
     
-    <title>Sssoon Page </title>
+    <title>Talent9</title>
     
     <link href="css/bootstrap.css" rel="stylesheet" />
 	<link href="css/coming-sssoon.css" rel="stylesheet" />    
@@ -35,19 +35,19 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
             <li>
-                <a href="#"> 
+                <a href="https://www.facebook.com/talentnine.nz.5"> 
                     <i class="fa fa-facebook-square"></i>
                     Share
                 </a>
             </li>
              <li>
-                <a href="#"> 
+                <a href="https://twitter.com/Talent9NZ"> 
                     <i class="fa fa-twitter"></i>
                     Tweet
                 </a>
             </li>
              <li>
-                <a href="#"> 
+                <a href="talent9nz@gmail.com"> 
                     <i class="fa fa-envelope-o"></i>
                     Email
                 </a>
@@ -72,7 +72,7 @@
 <!--  H1 can have 2 designs: "logo" and "logo cursive"           -->
         
         <div class="content">
-            <h4 class="motto">Slogan</h4>
+            <h4 class="motto">Where talent meets opportunity.</h4>
             <div class="subscribe">
                 <div class="row">
                     <div class="col-md-6 text-center">
