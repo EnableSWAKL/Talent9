@@ -76,17 +76,25 @@
             <div class="subscribe">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <form id="form-action" action="//talent9.us14.list-manage.com/subscribe/post?u=18343133abc1c05f8cca8af9d&amp;id=782c50dc9c" method="post" name="mc-embedded-subscribe-form" class="form-inline" target="_blank" novalidate>
-                            <div class="form-group">
-                                <input checked onclick="setJobSeeker();" type="radio" name="gender" value="male"> Job Seeker<br>
-                                <input onclick="setEmployer();" type="radio" name="gender" value="female"> Employer<br>
-                            </div>
-                            <div class="form-group">
+                        <form id="form-action" action="//talent9.us14.list-manage.com/subscribe/post?u=18343133abc1c05f8cca8af9d&amp;id=782c50dc9c" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                            <div class="form-inline">
                                 <label class="sr-only" for="exampleInputEmail2">Email address</label>
-                                <input type="email" value="" id="mce-EMAIL" name="EMAIL" class="form-control transparent" placeholder="Your email here...">
+                                <input type="email" style="width: 290px; height: 50px; font-size: 17px;" value="" id="mce-EMAIL" name="EMAIL" class="form-control transparent" placeholder="Your email here...">
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" id="input-id" name="b_18343133abc1c05f8cca8af9d_782c50dc9c" tabindex="-1" value="" /></div>
+                                <button type="submit" name="subscribe" style="height: 50px; font-size: 17px;"  class="btn btn-danger btn-fill">Notify Me</button>
                             </div>
-                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" id="input-id" name="b_18343133abc1c05f8cca8af9d_782c50dc9c" tabindex="-1" value="" /></div>
-                            <button type="submit" name="subscribe"  class="btn btn-danger btn-fill">Notify Me</button>
+                            <div class="form-inline" style="margin-top: 10px; color: #fff;">
+                                <label class="radio-inline">
+                                    <input checked type="radio" onclick="setJobSeeker();" name="option" id="jobSeeker" value="">
+                                    Job Seeker
+                                </label>
+
+                                <label class="radio-inline">
+                                    <input type="radio" onclick="setEmployer();" name="option" id="employer" value="">
+                                    Employer
+                                </label>
+                            </div>
+                            
                         </form>
                     </div>
 
